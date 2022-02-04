@@ -1,31 +1,27 @@
-# BouncingBalls-JavaScript
+# BouncingBalls-JavaScript Take-home Test
 
-Take-home Test
+## Overview and Test Instructions:
 
-Overview and Test Instructions 
+- Use any combination of web technologies to complete the task. 
 
- 
+- Submit in a format that is easy for us to run / inspect from the browser. 
 
-Use any combination of web technologies to complete the task. 
+- Your code should be written as if it were going to be deployed today i.e. using standard technologies commonly supported by most current browsers. 
 
-Submit in a format that is easy for us to run / inspect from the browser. 
+- You will be evaluated both on your implementation choices and the quality of your code; so please ensure code is well structured, extensible, testable, readable, commented etc. 
 
-Your code should be written as if it were going to be deployed today i.e. using standard technologies commonly supported by most current browsers. 
+- All code related to the physics of the ball should be authored by the applicant: do not use game engines, physics engines or other third party libraries to animate the balls. 
 
-You will be evaluated both on your implementation choices and the quality of your code; so please ensure code is well structured, extensible, testable, readable, commented etc. 
-
-All code related to the physics of the ball should be authored by the applicant: do not use game engines, physics engines or other third party libraries to animate the balls. 
-
-Any 3rd party code (at all) should be clearly attributed. 
+- Any 3rd party code (at all) should be clearly attributed. 
 
  
 
-Challenge:
+## Challenge:
 
-Stage 1: Whenever the user clicks on the page, a circle is 'fired' from the clicked position at a random speed and angle. [Please ensure that your solution handles multiple balls being fired and bouncing at the same time.] 
-
-
-Stage 2: When the projectile reaches the bottom of the browser window it should bounce until it stops; 
+- Stage 1: Whenever the user clicks on the page, a circle is 'fired' from the clicked position at a random speed and angle. [Please ensure that your solution handles multiple balls being fired and bouncing at the same time.] 
 
 
-Stage 3: Submit; 
+- Stage 2: When the projectile reaches the bottom of the browser window it should bounce until it stops; 
+
+
+- Stage 3: Submit; 
