@@ -1,5 +1,7 @@
 # BouncingBalls-JavaScript Take-home Test
 
+## [View solution in HTML](https://htmlpreview.github.io/?https://github.com/Jess-Z8960/BouncingBalls-JavaScript/blob/main/BouncingBalls%20-%20Jessica%20Zhang.html)
+
 ## Overview and Test Instructions:
 
 - Use any combination of web technologies to complete the task. 
